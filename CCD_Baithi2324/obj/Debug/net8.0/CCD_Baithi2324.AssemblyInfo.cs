@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCD_Baithi2324")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e10088cba75ea9c11d64b19c9dcee9c3390953")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCD_Baithi2324")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCD_Baithi2324")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
